@@ -122,3 +122,5 @@ Geographic and review analysis also highlighted opportunities for operational an
 Felipe Costa
 
 Data Analytics Graduate | Python | SQL | Machine Learning | Data Visualization
+
+Dataset: Olist Brazilian E-Commerce Dataset
